@@ -5504,8 +5504,9 @@ react-native-gradle-plugin@^0.71.18:
   resolved "https://registry.yarnpkg.com/react-native-gradle-plugin/-/react-native-gradle-plugin-0.71.18.tgz#20ef199bc85be32e45bb6cc069ec2e7dcb1a74a6"
   integrity sha512-7F6bD7B8Xsn3JllxcwHhFcsl9aHIig47+3eN4IHFNqfLhZr++3ElDrcqfMzugM+niWbaMi7bJ0kAkAL8eCpdWg==
 
-"react-native-pin-lock-view@file:..\\packages\\react-native-pin-lock-view\\":
-  version "0.1.0"
+"react-native-pin-lock-view@link:..\\packages\\react-native-pin-lock-view":
+  version "0.0.0"
+  uid ""
 
 react-native@0.71.8:
   version "0.71.8"

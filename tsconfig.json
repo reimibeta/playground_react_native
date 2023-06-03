@@ -1,6 +1,9 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
-    "strict": true
+    "strict": true,
+    "paths": {
+      "react-native-pin-lock-view": ["./node_modules/react-native-pin-lock-view/src/index"]
+    },
   }
 }

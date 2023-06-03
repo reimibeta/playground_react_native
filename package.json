@@ -13,7 +13,7 @@
     "expo-status-bar": "~1.4.4",
     "react": "18.2.0",
     "react-native": "0.71.8",
-    "react-native-pin-lock-view": "file:..\\packages\\react-native-pin-lock-view\\"
+    "react-native-pin-lock-view": "link:..\\packages\\react-native-pin-lock-view"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
