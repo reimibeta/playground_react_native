@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
 import { StatusBar } from 'expo-status-bar';
 import { StyleSheet, Text, View } from 'react-native';
-// import { multiply } from "react-native-pin-lock-view";
 import { multiply } from "react-native-pin-lock-view";
 
 
